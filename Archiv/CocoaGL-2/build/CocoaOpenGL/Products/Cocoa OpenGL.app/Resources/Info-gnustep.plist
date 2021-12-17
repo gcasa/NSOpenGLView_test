@@ -1,0 +1,13 @@
+{
+    CFBundleDevelopmentRegion = English;
+    CFBundleExecutable = "${EXECUTABLE_NAME}";
+    CFBundleIconFile = "Cocoa GL";
+    CFBundleIdentifier = "com.apple.Cocoa OpenGL";
+    CFBundleInfoDictionaryVersion = "6.0";
+    CFBundleName = "${PRODUCT_NAME}";
+    CFBundlePackageType = APPL;
+    CFBundleSignature = "????";
+    CFBundleVersion = "1.1";
+    NSMainNibFile = MainMenu;
+    NSPrincipalClass = NSApplication;
+}

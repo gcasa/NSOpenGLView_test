@@ -1,0 +1,8 @@
+{
+  NOTE = "Automatically generated, do not edit!";
+  NSExecutable = "CocoaOpenGL";
+  NSMainNibFile = "MainMenu";
+  NSMainStoryboardFile = "";
+  GSMainMarkupFile = "";
+  NSPrincipalClass = "NSApplication";
+}
