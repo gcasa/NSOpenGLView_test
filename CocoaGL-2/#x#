@@ -1,0 +1,35 @@
+2021-12-19 11:00:10.120 buildtool[3291:3291] Env = {"BUILT_PRODUCTS_DIR" = build; CLASSPATH = "/home
+/heron/GNUstep/Library/Libraries/Java:/usr/GNUstep/Local/Library/Libraries/Java:/usr/GNUstep/System/
+Library/Libraries/Java"; "CLUTTER_IM_MODULE" = ibus; "DBUS_SESSION_BUS_ADDRESS" = "/run/user/1000/bu
+s"; "DESKTOP_SESSION" = "gnustep-wmaker"; DISPLAY = ":0.0"; "EXECUTABLE_NAME" = "Cocoa OpenGL"; "GCC
+_COLORS" = 01; "GCC_GENERATE_DEBUGGING_SYMBOLS" = NO; "GCC_MODEL_TUNING" = G5; "GCC_PATH" = "/opt/gc
+c/7.2.0"; "GCC_VERSION" = "7.2.0"; "GCC_WARN_ABOUT_RETURN_TYPE" = YES; "GCC_WARN_EFFECTIVE_CPLUSPLUS
+_VIOLATIONS" = NO; "GCC_WARN_MISSING_PARENTHESES" = NO; "GCC_WARN_PEDANTIC" = NO; "GCC_WARN_SHADOW"
+= NO; "GCC_WARN_TYPECHECK_CALLS_TO_PRINTF" = YES; "GCC_WARN_UNINITIALIZED_AUTOS" = YES; "GCC_WARN_UN
+KNOWN_PRAGMAS" = YES; "GCC_WARN_UNUSED_FUNCTION" = YES; "GCC_WARN_UNUSED_LABEL" = YES; "GCC_WARN_UNU
+SED_PARAMETER" = NO; "GCC_WARN_UNUSED_VALUE" = YES; "GCC_WARN_UNUSED_VARIABLE" = NO; GDMSESSION = "g
+nustep-wmaker"; "GDM_LANG" = "en_US.UTF-8"; "GNUSTEP_MAKEFILES" = "/usr/GNUstep/System/Library/Makef
+iles"; "GPG_AGENT_INFO" = "/run/user/1000/gnupg/S.gpg-agent:0:1"; "GTK_IM_MODULE" = ibus; "GTK_MODUL
+ES" = "gail:atk-bridge"; "GUILE_LOAD_PATH" = "/home/heron/GNUstep/Library/Libraries/Guile:/usr/GNUst
+ep/Local/Library/Libraries/Guile:/usr/GNUstep/System/Library/Libraries/Guile"; HOME = "/home/heron";
+ INFOPATH = "/usr/GNUstep/System/Library/Documentation/info::/usr/GNUstep/Local/Library/Documentatio
+n/info::/home/heron/GNUstep/Library/Documentation/info:"; "INFOPLIST_FILE" = "Info.plist"; "INSTALL_
+PATH" = "$(HOME)/Applications"; LANG = "en_US.UTF-8"; "LD_LIBRARY_PATH" = "/home/heron/GNUstep/Libra
+ry/Libraries:/usr/GNUstep/Local/Library/Libraries:/usr/GNUstep/System/Library/Libraries:/usr/local/l
+ib"; LOGNAME = heron; "LS_COLORS" = "00;36:"; OLDPWD = "/home/heron/Development/NSOpenGLView_test/Ar
+chiv"; PATH = "/usr/local/sbin:/usr/sbin:/sbin:/home/heron/.local/bin:/home/heron/.local/bin:/home/h
+eron/bin:/home/heron/GNUstep/Tools:/usr/GNUstep/Local/Tools:/usr/GNUstep/System/Tools:/usr/local/bin
+:/usr/bin:/bin:/usr/local/games:/usr/games:/home/heron/.rvm/bin"; "PKG_CONFIG_PATH" = "/home/heron/G
+NUstep/Library/Libraries/pkgconfig:/usr/GNUstep/Local/Library/Libraries/pkgconfig:/usr/GNUstep/Syste
+m/Library/Libraries/pkgconfig"; PREBINDING = NO; "PRODUCT_NAME" = "Cocoa OpenGL"; "PRODUCT_OUTPUT_DI
+R" = "build/CocoaOpenGL/Products/Cocoa OpenGL.app"; "PROJECT_ROOT" = ""; PROMPT = "[%F{green}%n%f@%F
+{red}%m%f %1~%f] %# "; PWD = "/home/heron/Development/NSOpenGLView_test/Archiv/CocoaGL-2"; "QT_ACCES
+SIBILITY" = 1; "QT_IM_MODULE" = ibus; RPROMPT = "[%?%f]"; SDKROOT = "/Developer/SDKs/MacOSX10.4u.sdk
+"; SHELL = "/usr/bin/zsh"; SHLVL = 1; "SOURCE_ROOT" = "ReadMe.rtfd"; SRCROOT = "ReadMe.rtfd"; "SSH_A
+GENT_PID" = 1477; "SSH_AUTH_SOCK" = "/tmp/ssh-Yisq4v8FAIKV/agent.1293"; "TARGET_BUILD_DIR" = build;
+TERM = linux; "TERM_PROGRAM" = "GNUstep_Terminal"; USER = heron; USERNAME = heron; WINDOWPATH = 2; "
+WMAKER_BIN_NAME" = "/usr/lib/WindowMaker/wmaker"; "WMAKER_USER_ROOT" = "/home/heron/GNUstep"; "WRAPP
+ER_EXTENSION" = app; "WRASTER_COLOR_RESOLUTION0" = 4; XAUTHORITY = "/run/user/1000/gdm/Xauthority";
+"XDG_RUNTIME_DIR" = "/run/user/1000"; "XDG_SEAT" = seat0; "XDG_SESSION_CLASS" = user; "XDG_SESSION_D
+ESKTOP" = "gnustep-wmaker"; "XDG_SESSION_ID" = 2; "XDG_SESSION_TYPE" = x11; "XDG_VTNR" = 2; XMODIFIE
+RS = ibus; "_" = "/usr/GNUstep/System/Tools/buildtool"; inherited = ""; }
